@@ -1,0 +1,16 @@
+version: '3'
+services:
+  app:
+    build: .
+    command: /bin/sh -c "cd /srv/app &&php /bin/composer.phar config github-oauth.github.com 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 && php /bin/composer.phar install && php /bin/composer.phar update && apache2-foreground"
+    image: breakout-docker
+    ports:
+      - ${BREAKOUT_PORT:-9001}:80
+    volumes:
+      - ./src:/srv/app
+
+      
+
+
+
+#cd /srv/app && php /bin/composer.phar install && php /bin/composer.phar update && apache2-foreground

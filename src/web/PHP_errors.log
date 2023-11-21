@@ -1,0 +1,1028 @@
+[21-Nov-2023 22:32:41 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /srv/app/web/platform/index.php on line 10
+[21-Nov-2023 22:32:41 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:32:41 UTC] PHP Warning:  Undefined variable $toolhost in /srv/app/web/platform/index.php on line 10
+[21-Nov-2023 22:32:43 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:32:43 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:32:43 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:32:43 UTC] PHP Warning:  require_once(/srv/app/web/vq/nee/2/../vendor/autoload.php): Failed to open stream: No such file or directory in /srv/app/web/vq/nee/2/game.php on line 2
+[21-Nov-2023 22:32:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/srv/app/web/vq/nee/2/../vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /srv/app/web/vq/nee/2/game.php:2
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/vq/nee/2/game.php on line 2
+[21-Nov-2023 22:38:47 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:50 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:51 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:51 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:53 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:53 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:53 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:53 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:53 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:53 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:38:57 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:38:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:01 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:39:04 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:05 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:05 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:05 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:05 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:39:05 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:39:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:41:21 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:41:26 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:41:27 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:27 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:41:35 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:41:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:33 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:33 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:33 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:34 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:35 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:35 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:36 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:41 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:41 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:41 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:41 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:41 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:42:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:02 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:43:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:44:04 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:44:04 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:44:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:44:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:44:05 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:44:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:44:05 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:44:05 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:44:05 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:44:05 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:44:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:25 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:27 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:36 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:38 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "https://purl.imsglobal.org/spec/lti/claim/custom" in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/web/game.php on line 42
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "name" in /srv/app/web/game.php on line 43
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:40 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:41 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:41 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:41 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:41 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "auth_server" in /srv/app/db/example_database.php on line 20
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "startDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 22
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "endDateTime" in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Lineitem.php on line 23
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
+[21-Nov-2023 22:46:49 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PROTO" in /srv/app/db/example_database.php on line 3
+[21-Nov-2023 22:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "JWT" not found in /srv/app/web/platform/token.php:32
+Stack trace:
+#0 {main}
+  thrown in /srv/app/web/platform/token.php on line 32
+[21-Nov-2023 22:46:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /srv/app/vendor/imsglobal/lti-1p3-tool/src/lti/LTI_Service_Connector.php on line 59
